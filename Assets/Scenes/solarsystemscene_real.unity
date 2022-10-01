@@ -767,7 +767,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ccdd6b73b4da38a4cb4b208bc68a9756, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ccdd6b73b4da38a4cb4b208bc68a9756, type: 3}
       propertyPath: m_LocalScale.x
@@ -1336,7 +1336,7 @@ RectTransform:
   - {fileID: 933316143}
   - {fileID: 1601260291}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2037,8 +2037,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 848.812, y: 249.27185}
+  m_SizeDelta: {x: 627.6238, y: 301.4563}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1601260292
 MonoBehaviour:
