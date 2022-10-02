@@ -25,7 +25,7 @@ public class TelescopeCamera : MonoBehaviour
         {
 
             
-            Debug.Log("Vpravo");
+            //Debug.Log("Vpravo");
             cam.fieldOfView = camFieldOfView++;
             return;
 
@@ -35,7 +35,7 @@ public class TelescopeCamera : MonoBehaviour
         {
 
               
-             Debug.Log("Vlevo");
+             //Debug.Log("Vlevo");
              cam.fieldOfView = camFieldOfView--;
              return;
 
